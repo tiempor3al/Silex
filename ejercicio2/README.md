@@ -1,4 +1,4 @@
-#Configuración mínima de Silex
+#Primeros pasos con Silex y JSON 
 
 ```php
 <?php
@@ -28,3 +28,5 @@ En su navegador deberán ver algo similar a:
 En Chrome, Firefox, o Edge si están en Windows 10, pueden ver en la herramientas de desarrollo que el contenido de la ruta ha cambiado al tipo application/json
 
 ![Contenido de la ruta](https://raw.githubusercontent.com/tiempor3al/Silex/master/docs/images/ejercicio2_herramientas_desarrollo.png)
+
+Para saber más sobre el tema, les recomiendo este video: https://www.youtube.com/watch?v=LooL6_chvN4
