@@ -21,7 +21,7 @@ $app->run();
 La mayoría de las aplicaciones móviles en Android y iOS utilizan JSON para comunicarse del servidor web
 al dispositivo móvil. 
 
-En su navegador debería ver algo similar a:
+En su navegador deberán ver algo similar a:
 
 ![Configuración mínima de Silex en el navegador](https://raw.githubusercontent.com/tiempor3al/Silex/master/docs/images/ejercicio2.png)
 
