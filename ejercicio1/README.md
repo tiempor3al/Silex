@@ -1,6 +1,6 @@
 #Configuración mínima de Silex
 
-'''php
+```php
 <?php
 require_once __DIR__.'/../vendor/autoload.php';
 
@@ -12,7 +12,7 @@ $app->get('/', function(){
 });
 
 $app->run();
-'''
+```
 
 
 En su navegador debería ver algo similar a:
